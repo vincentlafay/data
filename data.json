@@ -118,7 +118,7 @@
 { "id":117,"latitude":"45.88716","longitude":"0.901165","type":"zebu","color":"red","client":"568PEPT604FRA0103","contact":"JULIEN","address":"FRA 87 ST JUNIEN","phone1":"05 61 37 39 07","phone2":"julien.breuilh@gefco.net","phone3":"<a href=mailto:julien.breuilh@gefco.net> Contactez-moi </a> ","last_purchase_date":"28/06/2017 08:00" },
 { "id":118,"latitude":"52.5971339","longitude":"-2.5592959","type":"zebu","color":"red","client":"568PEPT604FRA0108","contact":"JULIEN","address":"GBR MUCH WENLOCK","phone1":"05 61 37 39 07","phone2":"julien.breuilh@gefco.net","phone3":"<a href=mailto:julien.breuilh@gefco.net> Contactez-moi </a> ","last_purchase_date":"27/06/2017 14:00" },
 { "id":119,"latitude":"50.9097004","longitude":"-1.4043509","type":"zebu","color":"yellow","client":"568PEPT604FRA0098","contact":"JULIEN","address":"GBR SO SOUTHAMPTON","phone1":"05 61 37 39 07","phone2":"julien.breuilh@gefco.net","phone3":"<a href=mailto:julien.breuilh@gefco.net> Contactez-moi </a> ","last_purchase_date":"28/06/2017 10:00" },
-{ "id":120,"latitude":"50.1130625","longitude":"14.2177414","type":"semem","color":"yellow","client":"600GEREFRA2055","contact":"SAID","address":"CZE 25 DOBROVIZ","phone1":"01 49 05 29 84","phone2":"","phone3":"<a href=mailto:> Contactez-moi </a> ","last_purchase_date":"03/07/2017 23:59" },
+{ "id":120,"latitude":"50.1130625","longitude":"14.2177414","type":"zebu","color":"yellow","client":"600GEREFRA2055","contact":"SAID","address":"CZE 25 DOBROVIZ","phone1":"01 49 05 29 84","phone2":"","phone3":"<a href=mailto:> Contactez-moi </a> ","last_purchase_date":"03/07/2017 23:59" },
 { "id":121,"latitude":"41.9027835","longitude":"12.4963655","type":"zebu","color":"yellow","client":"604GEREROM2130","contact":"STEVE","address":"ITA 00 ROME","phone1":"05 61 37 38 78","phone2":"steve.pavie@gefco.net","phone3":"<a href=mailto:steve.pavie@gefco.net> Contactez-moi </a> ","last_purchase_date":"28/06/2017 04:00" },
 { "id":122,"latitude":"46.257773","longitude":"5.655335","type":"zebu","color":"green","client":"604GEREROM1849","contact":"STEVE","address":"FRA 01 OYONNAX","phone1":"05 61 37 38 78","phone2":"steve.pavie@gefco.net","phone3":"<a href=mailto:steve.pavie@gefco.net> Contactez-moi </a> ","last_purchase_date":"26/06/2017 11:00" },
 { "id":123,"latitude":"45.256666","longitude":"4.702261","type":"zebu","color":"green","client":"604GERELTU1931","contact":"STEVE","address":"FRA 07 DAVEZIEUX","phone1":"05 61 37 38 78","phone2":"steve.pavie@gefco.net","phone3":"<a href=mailto:steve.pavie@gefco.net> Contactez-moi </a> ","last_purchase_date":"28/06/2017 08:00" },
@@ -174,79 +174,4 @@
 { "id":173,"latitude":"48.611486","longitude":"2.30604","type":"zebu","color":"blue","client":"604GERELTU1906","contact":"VINCENT","address":"FRA 91 BRETIGNY SUR ORGE","phone1":"05 61 37 39 02","phone2":"vincent.lafay@gefco.net","phone3":"<a href=mailto:vincent.lafay@gefco.net> Contactez-moi </a> ","last_purchase_date":"27/06/2017 07:00" },
 { "id":174,"latitude":"51.2526476","longitude":"4.2786812","type":"zebu","color":"blue","client":"604GERESVK2039","contact":"VINCENT","address":"BEL 91 KALLO","phone1":"05 61 37 39 02","phone2":"vincent.lafay@gefco.net","phone3":"<a href=mailto:vincent.lafay@gefco.net> Contactez-moi </a> ","last_purchase_date":"27/06/2017 08:00" },
 { "id":175,"latitude":"48.935525","longitude":"2.303275","type":"zebu","color":"blue","client":"604GERESVK2123","contact":"VINCENT","address":"FRA 92 GENNEVILLIERS","phone1":"05 61 37 39 02","phone2":"vincent.lafay@gefco.net","phone3":"<a href=mailto:vincent.lafay@gefco.net> Contactez-moi </a> ","last_purchase_date":"27/06/2017 08:00" },
-{ "id":176,"latitude":"51.087349","longitude":"3.448371","type":"zebu","color":"blue","client":"604GERELTU1881","contact":"VINCENT","address":"BEL 98 AALTER","phone1":"05 61 37 39 02","phone2":"vincent.lafay@gefco.net","phone3":"<a href=mailto:vincent.lafay@gefco.net> Contactez-moi </a> ","last_purchase_date":"28/06/2017 07:00" },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{ "id":251,"latitude":"48.858053","longitude":"2.294289","type":"zebu","color":"blue","client":"LA TOUR EIFFEL","contact":"Gustave eiffel","address":"FRA 75 PARIS","phone1":"05 61 37 39 02","phone2":"vincent.lafay@gefco.net","phone3":"<a href=mailto:vincent.lafay@gefco.net> Contactez-moi </a> ","last_purchase_date":" mars 1889, pour l'Exposition universelle" }
-]
+{"id":176,"latitude":"48.858053","longitude":"2.294289","type":"zebu","color":"blue","client":"LA TOUR EIFFEL","contact":"Gustave eiffel","address":"FRA 75 PARIS","phone1":"05 61 37 39 02","phone2":"vincent.lafay@gefco.net","phone3":"<a href=mailto:vincent.lafay@gefco.net> Contactez-moi </a> ","last_purchase_date":" mars 1889, pour l'Exposition universelle" }]
