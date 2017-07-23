@@ -1,6 +1,9 @@
-[	
-  {"Tiger Nixon", "System Architect", "Edinburgh", "5421", "2011/04/25", "$320,800"},	
-   {"Garrett Winters", "Accountant", "Tokyo", "8422", "2011/07/25", "$170,750"},	
-   {"Ashton Cox", "Junior Technical Author", "San Francisco", "1562", "2009/01/12", "$86,000"},	
-   {"Michael Silva", "Marketing Designer", "London", "1581", "2012/11/27", "$198,500"}	
-]
+{ 
+    "iTotalRecords": 50,
+    "iTotalDisplayRecords": 10,
+    "sEcho":10,
+    "aaData": [
+        {"name": "Sitepoint", "url": "http://sitepoint.com", "editor" :{ "name" : "John Doe", "phone" : ["9191919", "1212121"], "email":[]}},
+        {"name": "Flippa", "url": "http://flippa.com",  "editor": { "name": "Adam Smith", "email" : ["adam.smith@domain.com"], "phone":[] }}
+    ]
+}
