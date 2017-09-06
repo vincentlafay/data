@@ -1,4 +1,4 @@
-[[
+[
 { "id":1,"latitude":"45.832913","longitude":"5.290324","type":"semem","color":"yellow","client":"600GEREFRA1309","contact":"ALAIN","address":"FRA 01 ST VULBAS","phone1":"02 99 05 44 91","phone2":"alain.patrel@gefco.net","phone3":"<a href=mailto:alain.patrel@gefco.net> Contactez-moi </a> ","last_purchase_date":"07/09/2017 14:00" },
 { "id":2,"latitude":"45.256666","longitude":"4.702261","type":"semem","color":"yellow","client":"600GEREFRA1855","contact":"ALAIN","address":"FRA 07 DAVEZIEUX","phone1":"02 99 05 44 91","phone2":"alain.patrel@gefco.net","phone3":"<a href=mailto:alain.patrel@gefco.net> Contactez-moi </a> ","last_purchase_date":"07/09/2017 09:00" },
 { "id":3,"latitude":"43.296482","longitude":"5.36978","type":"semem","color":"yellow","client":"600GEREFRA0113","contact":"ALAIN","address":"FRA 13 MARSEILLE","phone1":"02 99 05 44 91","phone2":"alain.patrel@gefco.net","phone3":"<a href=mailto:alain.patrel@gefco.net> Contactez-moi </a> ","last_purchase_date":"07/09/2017 09:00" },
